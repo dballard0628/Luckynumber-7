@@ -1,4 +1,4 @@
-# t
+# Lucky number -7
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([MIT](https://opensource.org/licenses/MIT))
 
@@ -16,17 +16,17 @@
 
 
   ## Description
-  t
+  This project is a functional README for users to understand.
 
   ## Installation Instructions
-  t
+   I worked on starter code within index.js and generateMarkdown.js. and used npm i to install node modules.
 
   ## Contribution guidelines
-  t
+   I used Vs code to create the README.
 
   ## Test instructions
-  t
+  With the help of peers, google, and Ai xpert, I was able to complete this challenge.
 
   ## How to reach me 
-  danahballard26@gmail.com
+  danahb@gmail.com
    https://github.com/dballard0628
