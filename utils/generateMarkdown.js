@@ -73,6 +73,9 @@ ${renderLicenseLink(data.license)}
   ## Installation Instructions
   ${data.installation}
 
+  ## Usage Information
+  ${data.usage}
+
   ## Contribution guidelines
   ${data.contribution}
 
