@@ -28,5 +28,5 @@
   t
 
   ## How to reach me 
-  danahballard26@gmail.com
+  danah@gmail.com
    https://github.com/dballard0628

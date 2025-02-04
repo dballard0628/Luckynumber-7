@@ -2,8 +2,6 @@
 import fs from "fs";
 import generateMarkdown from "./utils/generateMarkdown.js";
 import inquirer from "inquirer";
-// import getLicense from "./utils/getLicense.js";
-
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -71,7 +69,7 @@ function init(questions) {
         .prompt(questions)
         .then((answers) => {
 
-            writeToFile("README.md", answers);
+            writeToFile("./dist/README.md", answers);
         })
         .catch((error) => {
             console.log(error);
